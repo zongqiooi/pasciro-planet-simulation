@@ -1,5 +1,5 @@
 # PasciroPlanetSimulation
-PaSciRo Planet Simulation is a simulation that is used to observe the behaviors of the three different types of monsters. After the simulation ends, data will be generated and used for investigating the behaviors of the three different types of monsters.
+PaSciRo Planet Simulation is a simulation that is used to observe the behaviors of the three different types of monsters. During the simulation, reproduction and death will occur due to the collision between the monsters. 
 
 # Software Required to Run the Project 
 [Spyder](https://www.anaconda.com/products/individual)
