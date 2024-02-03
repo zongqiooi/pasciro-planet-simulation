@@ -1,7 +1,6 @@
-
 <a>
   <p align="center">
-    <img src="https://github.com/zongqiooi/pasciro-planet-simulation/assets/95561298/00620c1f-6961-4060-90e8-c267a94ad816"/> 
+    <img width="350" src="https://github.com/zongqiooi/pasciro-planet-simulation/assets/95561298/00620c1f-6961-4060-90e8-c267a94ad816"/> 
   </p>
   <h1 align="center">PaSciRoPlanet</h1>
 </a>
