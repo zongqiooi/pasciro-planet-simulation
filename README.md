@@ -29,11 +29,15 @@ PaSciRoPlanet is a simulation used to observe the behaviours of 3 different type
 
 <img width="460" src="https://github.com/zongqiooi/pasciro-planet-simulation/assets/95561298/3e4fa5a8-b27b-47cf-9251-cd45941e2259">
 
-2. Data Analytics at every step
+ --- 
+ 
+2. Data Analysis at every step
 
 <img width="460" src="https://github.com/zongqiooi/pasciro-planet-simulation/assets/95561298/ee737c49-02e6-4947-aab9-1e347aeb91de">
 
-3. Data Analytics for overall simulation
+ --- 
+ 
+3. Data Analysis for overall simulation
 
 <img width="460" src="https://github.com/zongqiooi/pasciro-planet-simulation/assets/95561298/64e05146-9afa-4853-b6f2-989759926205">
 
